@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+provider.tf
+terra-ansible-key
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/hashicorp/google/7.14.1/windows_amd64/terraform-provider-google_v7.14.1_x5.exe
+terraform.tfstate
+.terraform/*
